@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 
-# Creator :  ./TaurusAselole(SimPLeDark)
+# Creator :  ./Mr-S4NTUY(SimPLeDark)
 # Team : Solo
 # Just Kidding
 
@@ -40,7 +40,7 @@ def Banner():
   ___) | |_) | (_| | | | | | |   \ V  V / (_| |
  |____/| .__/ \__,_|_| |_| |_|    \_/\_/ \__,_|
        |_|                                     
-                   '''+W+'Creator : ./SimPLeDark\n\t\t   Youtube : Taurus Aselole')
+                   '''+W+'Creator : Mr-S4NTUY\n\t\t   Youtube : TUTORIAL ANDROID')
                    
 def RupaRupa():
 	print
@@ -197,7 +197,7 @@ def Spam():
 	os.system('clear')
 	print(C+'Wajib SUBCRIBE '+W+' Bro Biar Afdoll !'+C+' :V')
 	sleep(1.5)
-	os.system('xdg-open https://www.youtube.com/channel/UCjDjdKF2MaeZNuF_NK-1B8Q')
+	os.system('xdg-open https://www.youtube.com/channel/UCVX-ZwkQ4FVbRdk7AGuF_SA')
 	os.system('clear')
 	sleep(1.3)
 	Banner()
